@@ -3,6 +3,7 @@ A Translator app made by using HTML, CSS, vanilla JavaScript and MyMemory API fo
 
 #
 live Site:- https://anukultyagi.github.io/The-Translator/
+Leave a star after cloning.
 
 #
 Screeshot:- 
